@@ -1,8 +1,3 @@
-# trillo-webpage
-
-https://trillo-webpage.netlify.app/
-
-
 <div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
